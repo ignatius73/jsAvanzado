@@ -1,0 +1,17 @@
+
+#head1{
+    text-decoration: underline;
+}
+
+.encabezado{
+    color:purple;
+}
+
+ p{
+    font-size: 12px;
+}
+
+.clase__parrafo{
+    font-family: sans-serif;
+    
+}
